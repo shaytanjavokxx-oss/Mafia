@@ -1,0 +1,8 @@
+BOT_TOKEN = "8662653885:AAGzEBzVHQ-f6oujPImKkQV1trv1qiFdpAQ"
+ADMIN_ID = 7132963801
+ADMIN_USERNAME = "@jony_xD"
+
+MIN_PLAYERS = 4
+JOIN_TIME = 60  # soniya - oyinga yozilish vaqti
+NIGHT_TIME = 45
+DAY_TIME = 60
